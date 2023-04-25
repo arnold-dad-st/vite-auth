@@ -8,3 +8,8 @@ To run the application, please follow these steps:
 sh ./run.sh
 
 To change API URL update the value of VITE_API_URL in .env file and re-run the app.
+
+demo user data
+
+username: user1
+password: pass1
