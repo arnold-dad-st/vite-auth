@@ -7,4 +7,4 @@ To run the application, please follow these steps:
 
 sh ./run.sh
 
-To change API URL change the value of VITE_API_URL in .env file and re-run the app.
+To change API URL update the value of VITE_API_URL in .env file and re-run the app.
